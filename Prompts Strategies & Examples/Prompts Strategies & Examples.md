@@ -369,7 +369,7 @@ Limit to 150 words.
 
 ---
 
-## 3. Zero-Shot Prompting
+## 5. Zero-Shot Prompting
 
 Zero-Shot Prompting means asking the model to perform a task without providing any examples.
 
